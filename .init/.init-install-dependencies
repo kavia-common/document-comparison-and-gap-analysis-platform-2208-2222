@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/home/kavia/workspace/code-generation/document-comparison-and-gap-analysis-platform-2208-2222/pmd_backend_service"
+}
